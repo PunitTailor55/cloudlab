@@ -169,8 +169,8 @@ a{
   </div>
   <div class="sides"> <a href="#" class="menu"> </a></div>
   <div class="info">
-  <h4><a href="#category">Vulnmachines</a></h4>
-    <h1>Vulnmachines Lab - Let's find out flag file</h1>
+  <h4><a href="#category">Punit Darji</a></h4>
+    <h1>Console Takeover Lab</h1>
      <div class="s131">
       <form method="POST">
         <div class="inner-form">
@@ -196,8 +196,8 @@ a{
           echo "</pre>";
         }
       ?> 
-<p>Vulnmachines is a cybersecurity learning platform where security enthusiasts can get a hands-on experience of various skills in different cybersecurity categories through Capture The Flag Contests. A place to learn and improve penetration testing/ethical hacking skills for FREE. The labs consist of 30+ real world scenarios to practice the latest exploits and cutting edge hacking techniques.</p>
-  <p align="center"><a href="https://twitter.com/Vulnmachines" class="btn twtr" target="_b">Follow me on Twitter</a>
+<p>Created By Punit Darji</p>
+  <p align="center"><a href="https://twitter.com/punitdarji" class="btn twtr" target="_b">Follow me on Twitter</a>
   </p>
 </section>
 
