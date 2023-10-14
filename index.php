@@ -165,7 +165,7 @@ a{
   ?> 
 <div class="header">
   <div class="sides">
-    <a href="#" class="logo">Vulnmachines</a>
+    <a href="#" class="logo">Punit Darji</a>
   </div>
   <div class="sides"> <a href="#" class="menu"> </a></div>
   <div class="info">
